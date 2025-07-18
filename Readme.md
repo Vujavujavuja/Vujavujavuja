@@ -15,3 +15,5 @@ If you want to talk or discuss new developments in the AI field feel free to rea
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vuja.43) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nemanja-vujic-vuja43) 
 
+## Check out my personal blog and website
+(https://vujic.ai)
