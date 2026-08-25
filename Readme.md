@@ -1,4 +1,4 @@
-# Nemanja Vujić
+# Nemanja Vujic
 
 Engineer working on AI, synthetic data, and developer tooling.
 
